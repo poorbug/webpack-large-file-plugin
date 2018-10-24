@@ -1,0 +1,8 @@
+{
+    "name": "@learning/webpack-large-file-plugin",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "author": "libaixiang@bytedance.com",
+    "license": "ISC"
+}
